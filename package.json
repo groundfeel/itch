@@ -60,7 +60,7 @@
     "redux": "^4.0.5",
     "redux-cli-logger": "^2.1.0",
     "redux-logger": "^3.0.6",
-    "reselect": "^4.0.0",
+    "reselect": "^4.1.7",
     "rimraf": "^3.0.2",
     "semver": "^7.3.4",
     "shell-quote": "^1.7.2",
